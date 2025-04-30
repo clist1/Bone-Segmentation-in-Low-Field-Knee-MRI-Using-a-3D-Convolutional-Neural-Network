@@ -11,7 +11,7 @@ The project consists of two Notebooks:
 
 
 ## Setup
-These notebooks are intended to be run on [Kaggle](https://www.kaggle.com/code), where most common libraries (e.g. NumPy, Pandas, PyTorch, scikit-learn, etc.) are already available.
+These notebooks can be easily executed on [Kaggle](https://www.kaggle.com/code), where most common libraries (e.g. NumPy, Tensorflow, scikit-learn, etc.) are already available.
 
 However, you need to manually install the `patchify` library.  
 At the beginning of the notebook, make sure to include:
